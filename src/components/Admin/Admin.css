@@ -1,0 +1,49 @@
+.admin {
+  margin: 0px auto;
+  width: 90%;
+  margin-top: 80px;
+}
+.admin-user {
+  padding: 15px 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.admin-user > div {
+  display: flex;
+}
+.admin-user > div > p {
+  margin-right: 10px;
+}
+.admin-user-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 10px;
+}
+.admin-user-container > div {
+  width: 90%;
+  text-align: center;
+}
+.admin-user-container > div > img {
+  height: 70px;
+  width: 70px;
+}
+.admin-user-box {
+  display: flex;
+  flex-direction: column;
+  height: 450px;
+  overflow-y: scroll;
+}
+.extra-css {
+  font-weight: 700;
+  border-bottom: 2px solid #000;
+}
+.admin-css > div > p {
+  font-weight: 600;
+}
+.admin-css > div > button {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 18px;
+}

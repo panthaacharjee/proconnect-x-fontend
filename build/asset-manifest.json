@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e5657f9.css",
+    "main.js": "/static/js/main.aea5f6c7.js",
+    "static/media/pantha.jpg": "/static/media/pantha.42198f865944ff3933aa.jpg",
+    "static/media/pexels-sora-shimazaki-5926386.jpg": "/static/media/pexels-sora-shimazaki-5926386.c6db72a0573af9659692.jpg",
+    "static/media/globe@1x.png": "/static/media/globe@1x.ebf89ac1846819d0da41.png",
+    "static/media/bkash.png": "/static/media/bkash.e221f118be0880344a65.png",
+    "static/media/dbbl.jfif": "/static/media/dbbl.1aaa73d54e933f9fda57.jfif",
+    "static/media/ukraine-help.svg": "/static/media/ukraine-help.da2ef81a023576a08b560665640c309f.svg",
+    "index.html": "/index.html",
+    "main.1e5657f9.css.map": "/static/css/main.1e5657f9.css.map",
+    "main.aea5f6c7.js.map": "/static/js/main.aea5f6c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e5657f9.css",
+    "static/js/main.aea5f6c7.js"
+  ]
+}

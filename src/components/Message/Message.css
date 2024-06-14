@@ -1,0 +1,132 @@
+.message-container-main {
+  width: 90%;
+  margin: 0px auto;
+  margin-top: 80px;
+  z-index: 54777745555;
+  /* top: 80px;
+  left: 0px; */
+}
+.message-container {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0px 0px 15px 1px #000;
+  /* height: 85vh; */
+}
+.user-box {
+  width: 30%;
+  border-right: 2px solid rgb(114, 114, 114);
+}
+.message-box {
+  width: 70%;
+}
+.user-header-box {
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+}
+.user-header-box > img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.user-header-box > p {
+  margin-left: 10px;
+  font-weight: bold;
+}
+.user-main-box {
+  width: 100%;
+  /* display: flex; */
+  /* flex-direction: column; */
+  overflow-y: scroll;
+  /* height: 100%; */
+  max-height: 65vh;
+}
+.user-main-box > div {
+  background-color: rgb(110, 110, 110);
+  margin-top: 10px;
+  padding: 5px 10px;
+  display: flex;
+  margin-left: 5px;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.user-main-box > div > img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+.user-main-box > div > p {
+  margin-left: 10px;
+}
+.user-search-box {
+  padding: 10px;
+  background-color: rgb(46, 45, 45);
+}
+.user-search-box > input {
+  padding: 5px;
+  width: 74%;
+}
+.user-search-box > button {
+  padding: 5px 6px;
+  cursor: pointer;
+}
+.user-footer-box {
+  padding: 10px;
+  background-color: rgb(216, 249, 255);
+  text-align: center;
+}
+
+.message-box {
+  /* background-color: red; */
+}
+
+.message-header-box {
+  background-color: rgb(134, 134, 134);
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  color: #fff;
+}
+.message-header-box > img {
+  height: 40px;
+  width: 40px;
+}
+.message-header-box > p {
+  margin-left: 10px;
+}
+.message-middle-box {
+  height: 69vh;
+  color: rgb(145, 196, 193);
+  box-sizing: border-box;
+}
+.message {
+  color: #fff;
+  background-color: rgb(46, 46, 46);
+  padding: 10px 20px;
+  width: 30%;
+  margin: 10px 20px;
+  border-radius: 5px;
+}
+.right {
+  right: 0px;
+  /* position: absolute; */
+
+  display: block;
+  margin: 20px auto;
+  margin-right: 100px;
+}
+.left {
+  /* position: absolute; */
+  left: 0px;
+  top: 20px;
+}
+.message-footer-box > input {
+  width: 98.5%;
+  /* padding: 10px; */
+  height: 65px;
+  padding-left: 10px;
+  border: none;
+  z-index: 55555555555;
+}

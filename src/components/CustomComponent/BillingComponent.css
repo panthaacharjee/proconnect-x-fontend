@@ -1,0 +1,36 @@
+.payment-container {
+  margin: 80px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.payment-box {
+  background-color: rgb(0, 40, 73);
+  width: 35%;
+  /* padding: 20px 10px; */
+  position: relative;
+  padding-top: 10px;
+  height: min-content;
+  margin-top: 80px;
+}
+.payment-box > div > img {
+  height: 20px;
+  width: 50px;
+  margin: 0px auto;
+  display: block;
+}
+.payment-box > div > h4 {
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.payment-box > input {
+  width: 91.5%;
+  padding: 10px 15px;
+}
+.payment-box > div > button {
+  width: 50%;
+  padding: 10px 0px;
+  cursor: pointer;
+}
